@@ -17,11 +17,11 @@
 ## 2. Kickoff Meeting + GitHub Repo — 3 pts
  
 ### GitHub setup (do this first)
-- [ ] Create a GitHub org named `cse110-sp24-groupX`
-- [ ] Create a repo with the same name inside the org
-- [ ] Create folders: `/admin`, `/admin/meetings`, `/source`, `/specs`
-- [ ] Add a `README.md` in the root with a short project description
-- [ ] Invite all 10 teammates + TA mentor as admin collaborators
+- [X] Create a GitHub org named `cse110-sp24-groupX`
+- [X] Create a repo with the same name inside the org
+- [X] Create folders: `/admin`, `/admin/meetings`, `/source`, `/specs`
+- [X] Add a `README.md` in the root with a short project description
+- [X] Invite all 10 teammates + TA mentor as admin collaborators
  
 ### Kickoff meeting
 - [ ] Hold the kickoff meeting (define roles, rules, process)

@@ -4,10 +4,12 @@
 
 Cuties, like the oranges
 
+We value: collaboration, 
+
 # Team Roster
 
 ### Jordan Junaidi
-I'm a second-year computer science major in Seventh College. I enjoy playing video games, playing/watching basketball, and travelling.
+I'm a second-year computer science major in Seventh College. I have experience with full-stack development and some AI/ML. In my free time I enjoy playing video games, playing/watching basketball, and travelling.
 
 Github: https://github.com/JordanJunaidi
 

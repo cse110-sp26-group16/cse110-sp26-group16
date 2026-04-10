@@ -28,6 +28,9 @@ Github: https://github.com/JordanJunaidi
 ### Harvey Zhang
 
 ### Jennifer Zhu
+I'm a third-year computer science major in Seventh College. I have experience with full-stack development and mobile development. In my free time, I love trying new foods/cafes, snowboarding, and watching movies/tv shows.
+
+Github: https://github.com/jenniferrzhu
 
 ### Koji Nakazawa
 

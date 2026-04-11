@@ -34,6 +34,10 @@ Github: https://github.com/Asespene
 
 ### Fariba Tokhi
 
+I'm a third-year transfer Computer Science major at Rosvellent college. I enjoy backend development, and wants to learn more about the AI and how we could impelment it in our project. In my free time I enjoy reading novel, and walking. 
+
+Github: https://github.com/Fariba-Tokhi
+
 ### Harvey Zhang
 
 ### Jennifer Zhu

@@ -23,6 +23,8 @@ Github: https://github.com/ypesok28
 
 ### Angelo Sespene
 
+I'm a third-year transfer computer science major at Sixth College. I enjoy doing and learning more on embedded systems. In my free time, I enjoy playing videogames, basketabll, and watching anime.
+
 ### Bowen Wu
 
 ### Charles Chen

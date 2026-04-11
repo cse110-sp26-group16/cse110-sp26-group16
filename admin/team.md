@@ -15,6 +15,10 @@ Github: https://github.com/JordanJunaidi
 
 ### Yuval Pesok
 
+I'm a second-year computer science major at Seventh College. I enjoy doing web development and building systems that give users super easy experiences. I also enjoy diving into new agentic technology. In my free time I like playing basketball and football, hanging out wiht my friends, and eating food.
+
+Github: https://github.com/ypesok28
+
 ### Alec Lichtenberger
 
 ### Angelo Sespene

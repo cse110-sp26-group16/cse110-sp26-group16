@@ -72,7 +72,8 @@ Possible roles to assign (can rotate):
 - Team Lead / Project Manager: Yuval and Jordan
 - Note Taker: Roy
 - GitHub / Repo Admin: Angelo and Bowen
-- Frontend Lead: Harvey 
+- Fullstack: Koji
+- Frontend Lead: Harvey Jenny 
 - Backend Lead: Alec and Angelo
 - QA / Testing Lead: Roy and Alec 
 - Design Lead: Fariba 

@@ -5,10 +5,10 @@
  
 ## 1. Group Bonding Event — 1 pt
  
-- [ ] Schedule a group hangout (in-person strongly recommended, ~1 hour+)
-- [ ] Do a fun activity — skribbl.io, Jackbox, Among Us, etc.
-- [ ] Take a screenshot of the group Zoom call during the event
-- [ ] Submit screenshot (.jpg / .png / .jpeg) to Canvas
+- [X] Schedule a group hangout (in-person strongly recommended, ~1 hour+)
+- [X] Do a fun activity — skribbl.io, Jackbox, Among Us, etc.
+- [X] Take a screenshot of the group Zoom call during the event
+- [X] Submit screenshot (.jpg / .png / .jpeg) to Canvas
  
 > **Note:** Can be held back-to-back with the kickoff meeting — but keep them separate. Do the kickoff first.
  

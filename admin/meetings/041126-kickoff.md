@@ -13,15 +13,15 @@
 ## Attendance
  
 ### Present
-- [ ] Yuval Pesok
-- [ ] Roy Martinez
-- [ ] Bowen Wu
-- [ ] Jordan Junaidi
-- [ ] Harvey Zhang
-- [ ] Fariba Tokhi
+- [X] Yuval Pesok
+- [X] Roy Martinez
+- [X] Bowen Wu
+- [X] Jordan Junaidi
+- [X] Harvey Zhang
+- [X] Fariba Tokhi
 - [ ] Koji
-- [ ] Alec Lichtenberger
-- [ ] Angelo Sespene
+- [X] Alec Lichtenberger
+- [X] Angelo Sespene
 - [ ] Jennifer Zhu
 - [ ] Mentor TA: Omair Qazi
  

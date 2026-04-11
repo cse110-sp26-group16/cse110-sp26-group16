@@ -1,10 +1,10 @@
 # Kickoff Meeting — CSE 110 Group 16
  
-**Team Number / Name:** Group 16 — Cutie Devs
+**Team Number / Name:** Group 16 — [Team Name TBD]
 **Meeting Type:** Kickoff Meeting
-**Date:** April 11, 2026
+**Date:** April 10, 2026
 **Time:** [start time] – [end time]
-**Location:** Zoom
+**Location:** [in-person location / Zoom / Discord]
 **Note Taker:** [Name]
 **Facilitator:** [Name]
  
@@ -13,13 +13,17 @@
 ## Attendance
  
 ### Present
-- [ ] [Member 1]
-- [ ] [Member 2]
-- [ ] [Member 3]
-- [ ] [Member 4]
-- [ ] [Member 5]
-- [ ] [Member 6]
-- [ ] Mentor TA: [Name]
+- [ ] Yuval Pesok
+- [ ] Roy Martinez
+- [ ] Bowen Wu
+- [ ] Jordan Junaidi
+- [ ] Harvey Zhang
+- [ ] Fariba Tokhi
+- [ ] Koji
+- [ ] Alec Lichtenberger
+- [ ] Angelo Sespene
+- [ ] Jennifer Zhu
+- [ ] Mentor TA: Omair Qazi
  
 ### Absent
 - [Name] — [reason, if known]
@@ -51,7 +55,7 @@
 - **Notes:**
  
 ### 2. Communication Channels
-- Primary channel: [Discord / Slack / Messenger / ...]
+- Primary channel: [Slack / Discord / Messenger / ...]
 - Secondary / async: [email, GitHub issues]
 - Expected response time: [e.g., within 24 hours on weekdays]
 - **Notes:**
@@ -89,12 +93,12 @@ Topics to discuss for the team contract:
 - **Notes:**
  
 ### 6. GitHub Setup
-- Organization name: `cse110-sp26-group[X]`
-- Repo name: `cse110-sp26-group[X]`
+- Organization name: `cse110-sp26-group16`
+- Repo name: `cse110-sp26-group16`
 - Repo admin: [Name]
 - Required directories: `/admin`, `/admin/meetings`, `/source`, `/specs`
 - README.md to be created at root
-- TA to be invited as admin collaborator
+- TA (Omair Qazi) to be invited as admin collaborator
 - **Notes:**
  
 ### 7. Meeting Cadence
@@ -118,14 +122,14 @@ Topics to discuss for the team contract:
 ---
  
 ## Items for Future Investigation
-- [topic / who is investigating / by when]
+- [topic] — owner: [name] — by: [date]
  
 ---
  
 ## Action Items
 | # | Action Item | Owner | Due Date |
 |---|---|---|---|
-| 1 | Create GitHub org & invite members + TA |  |  |
+| 1 | Create GitHub org `cse110-sp26-group16` & invite members + Omair |  |  |
 | 2 | Draft team contract |  |  |
 | 3 | Set up README.md |  |  |
 | 4 |  |  |  |

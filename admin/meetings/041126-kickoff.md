@@ -1,10 +1,10 @@
 # Kickoff Meeting — CSE 110 Group 16
  
-**Team Number / Name:** Group 16 — [Team Name TBD]
+**Team Number / Name:** Group 16 — Cutie Devs (current name)
 **Meeting Type:** Kickoff Meeting
-**Date:** April 10, 2026
+**Date:** April 11, 2026
 **Time:** [start time] – [end time]
-**Location:** [in-person location / Zoom / Discord]
+**Location:** Zoom
 **Note Taker:** [Name]
 **Facilitator:** [Name]
  
@@ -54,18 +54,12 @@
 - Each member shares: name, year, relevant experience (languages, frameworks, prior projects), strengths, and areas they want to grow in.
 - **Notes:**
  
-### 2. Communication Channels
-- Primary channel: [Slack / Discord / Messenger / ...]
-- Secondary / async: [email, GitHub issues]
-- Expected response time: [e.g., within 24 hours on weekdays]
-- **Notes:**
- 
-### 3. Project Expectations
+### 2. Project Expectations
 - Review CSE 110 project requirements and grading rubric.
 - Discuss team goals (target grade, learning outcomes, ambition level).
 - **Notes:**
  
-### 4. Roles & Responsibilities
+### 3. Roles & Responsibilities
 Possible roles to assign (can rotate):
 - Team Lead / Project Manager
 - Scrum Master
@@ -82,7 +76,7 @@ Possible roles to assign (can rotate):
 |  |  |
 |  |  |
  
-### 5. Team Norms & Ground Rules
+### 4. Team Norms & Ground Rules
 Topics to discuss for the team contract:
 - How will we handle missed deadlines?
 - How will we handle disagreements?
@@ -92,16 +86,7 @@ Topics to discuss for the team contract:
 - Definition of "done"
 - **Notes:**
  
-### 6. GitHub Setup
-- Organization name: `cse110-sp26-group16`
-- Repo name: `cse110-sp26-group16`
-- Repo admin: [Name]
-- Required directories: `/admin`, `/admin/meetings`, `/source`, `/specs`
-- README.md to be created at root
-- TA (Omair Qazi) to be invited as admin collaborator
-- **Notes:**
- 
-### 7. Meeting Cadence
+### 5. Meeting Cadence
 - Recurring meeting day/time: [e.g., Tuesdays 6pm]
 - Standup format/cadence: [TBD]
 - **Notes:**

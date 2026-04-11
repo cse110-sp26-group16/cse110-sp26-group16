@@ -20,6 +20,7 @@ I'm a second-year computer science major at Seventh College. I enjoy doing web d
 Github: https://github.com/ypesok28
 
 ### Alec Lichtenberger
+I'm a second year computer science major at Warren College. I enjoy doing backend web dev and embedded systems. In my free time I like to play basketball and video games. 
 
 ### Angelo Sespene
 

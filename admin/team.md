@@ -49,4 +49,8 @@ Github: https://github.com/jenniferrzhu
 
 ### Roy Martinez
 
+I'm a third year Computer Science major at Revelle College. I have experience with backend development and I would want to learn more about security systems. I like playing video games and travelling with friends. 
+
+Github: https://github.com/Flimgees
+
 

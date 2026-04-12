@@ -4,7 +4,7 @@
 
 Cuties, like the oranges
 
-We value: collaboration, 
+We value: collaboration, communication, accountability, respect, growth, and fun.
 
 # Team Roster
 

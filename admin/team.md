@@ -38,6 +38,9 @@ Github: https://github.com/Fariba-Tokhi
 
 ### Harvey Zhang
 
+I'm a fourth-year computer engineering major at Marshall college. I have experience with frontend development. In my free time, I like to watch shows and 
+play basketball with friends.
+
 ### Jennifer Zhu
 I'm a third-year computer science major in Seventh College. I have experience with full-stack development and mobile development. In my free time, I love trying new foods/cafes, snowboarding, and watching movies/tv shows.
 

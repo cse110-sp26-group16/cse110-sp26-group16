@@ -41,7 +41,7 @@
 ### Branding _(not graded, but TA will ask at check-in)_
 
 - [x] Decide on a team name, colors, and optional logo/mascot
-- [ ] Save branding files to `/admin/branding/`
+- [x] Save branding files to `/admin/branding/`
 - [x] Set Slack workspace icon to something that shows your brand + team number
 
 ### Team page _(graded)_
@@ -62,16 +62,16 @@
 
 ### What to cover in the charter
 
-- [ ] Team purpose, objectives, and shared values
-- [ ] Roles, responsibilities, and accountability (with flexibility for absences)
-- [ ] Communication protocols + conflict resolution process
-- [ ] What happens if someone doesn't follow the rules
-- [ ] Working methods, how you'll measure success, ensuring equal contributions
+- [x] Team purpose, objectives, and shared values
+- [x] Roles, responsibilities, and accountability (with flexibility for absences)
+- [x] Communication protocols + conflict resolution process
+- [x] What happens if someone doesn't follow the rules
+- [x] Working methods, how you'll measure success, ensuring equal contributions
 
 ### Files to create
 
-- [ ] Write and push `/admin/misc/rules.md` (the shared charter)
-- [ ] Every member prints, signs, and uploads their own `/admin/misc/rules-firstnamelastname.pdf`
+- [x] Write and push `/admin/misc/rules.md` (the shared charter)
+- [x] Every member prints, signs, and uploads their own `/admin/misc/rules-firstnamelastname.pdf`
   - Example: `rules-thomaspowell.pdf`
 
 > **Note:** Signed PDFs are individual — all 10 members need to submit one. Coordinate early so you're not chasing people Sunday night. Consider signing in person at the bonding event.

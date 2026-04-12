@@ -1,8 +1,8 @@
-# Cuties
+# Cutie Devs
 
 <img width="359" height="358" alt="image" src="https://github.com/user-attachments/assets/3b456983-8f56-4944-8ac0-664088a197ae" />
 
-Cuties, like the oranges
+Cutie Devs, like the oranges
 
 We value: collaboration, communication, accountability, respect, growth, and fun.
 
@@ -29,8 +29,6 @@ I'm a third-year transfer computer science major at Sixth College. I enjoy doing
 Github: https://github.com/Asespene
 
 ### Bowen Wu
-
-### Charles Chen
 
 ### Fariba Tokhi
 

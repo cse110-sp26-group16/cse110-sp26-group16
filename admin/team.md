@@ -47,6 +47,9 @@ I'm a third-year computer science major in Seventh College. I have experience wi
 Github: https://github.com/jenniferrzhu
 
 ### Koji Nakazawa
+I'm a third-year computer science major in Revelle College. I have experience with full-stack development. In my free time, I like to play basketball and watch movies.
+
+Github: https://github.com/nakazawak
 
 ### Roy Martinez
 

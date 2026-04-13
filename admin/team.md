@@ -30,6 +30,10 @@ Github: https://github.com/Asespene
 
 ### Bowen Wu
 
+I'm a third-year transfer Computer Science major at Sixth college. I some experience with webdev but I'd like to learn more about backend. In my free time, I like to go to the gym, hike, and play pickleball. 
+
+Github: https://github.com/Endless1010
+
 ### Fariba Tokhi
 
 I'm a third-year transfer Computer Science major at Rosvellent college. I enjoy backend development, and wants to learn more about the AI and how we could impelment it in our project. In my free time I enjoy reading novel, and walking. 

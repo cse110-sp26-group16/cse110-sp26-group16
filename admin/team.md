@@ -61,4 +61,12 @@ I'm a third year Computer Science major at Revelle College. I have experience wi
 
 Github: https://github.com/Flimgees
 
+### Tim Wu
 
+Haotong Wu
+
+I'm a third-year student at Thurgood Marshall College, studying International Studies (International Business) and Political Science (International Relations), with a strong interest in the intersection of business, technology, and global systems. I have some experience with programming and data analysis, and I’m currently working on building stronger technical foundations, especially in software development.
+
+Outside of class, I’ve been involved in student leadership and community-building, where I’ve learned a lot about communication, responsibility, and creating meaningful impact. In my free time, I enjoy working out, exploring new ideas, and building projects that connect technology with real-world problems.
+
+Github: https://github.com/timhaotongwu
